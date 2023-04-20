@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asignment2</title>
+    <link rel="icon" type="image/x-icon" href="https://img.collegedekhocdn.com/media/img/institute/logo/cu_logo.pnghttps://img.collegedekhocdn.com/media/img/institute/logo/cu_logo.png">
+</head>
+<body>
+    <center><h1>Movie Page</h1></center><br>
+    <img src="https://www.themoviedb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" alt="Intsteller poster" width="250" height="484" id="int">
+    <p>Interstellar is a 2014 epic science fiction film co-written, directed, and produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, Matt Damon, and Michael Caine. Set in a dystopian future where humanity is struggling to survive, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for mankind.Interstellar premiered on October 26, 2014, in Los Angeles. In the United States, it was first released on film stock, expanding to venues using digital projectors. The film had a worldwide gross over $677 million (and $773 million with subsequent re-releases), making it the tenth-highest grossing film of 2014.</p><br><br>
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg" alt="Inception poster" width="250" height="484" id="inc">
+    <p>Inception is a 2010 science fiction action film written and directed by Christopher Nolan, who also produced the film with Emma Thomas, his wife. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious of his targets. He is offered a chance to have his criminal history erased as payment for the implantation of another person's idea into a target's subconscious.Inception's premiere was held in London on July 8, 2010; it was released in both conventional and IMAX theaters beginning on July 16, 2010. Inception grossed over $828 million worldwide, becoming the fourth-highest-grossing film of 2010. Considered one of the best films of the 2010s.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg" alt="Joker poster" width="250" height="484" id="jok">
+    <p>Joker is a 2019 American neo-noir psychological thriller film directed by Todd Phillips, who also co-wrote the screenplay with Scott Silver. The film, based on DC Comics characters, stars Joaquin Phoenix as the Joker and serves as a standalone origin story for the character. Set in 1981, it follows Arthur Fleck, a failed clown and aspiring stand-up comic whose descent into mental illness and nihilism inspires a violent countercultural revolution against the prosperous in a decaying Gotham City.The film was a box office success and set records for an October release. It grossed over $1 billion, the first R-rated film to do so and became the sixth-highest-grossing film of 2019 during its theatrical run. The film also received numerous accolades, including the Academy Award for Best Actor for Phoenix.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg" alt="Dune poster" width="250" height="484" id="dun">
+    <p>Dune (titled onscreen as Dune: Part One) is a 2021 American epic science fiction film directed by Denis Villeneuve from a screenplay by Villeneuve, Jon Spaihts, and Eric Roth. It is the first part of a two-part adaptation of the 1965 novel by Frank Herbert. Set in the distant future, the film follows Paul Atreides as his family, the noble House Atreides, is thrust into a war for the deadly and inhospitable desert planet Arrakis.The film was a box office success and it was the 12th highest grossing film of the year despite being released on HBO Max on same day. Organizations such as the National Board of Review and the American Film Institute named Dune as one of the top 10 films of 2021.</p>
+    <style>
+        h1 {font-size: xx-large;font-family: cursive;text-decoration-style: dotted;color: white;}
+        #img {
+float: left;    
+}
+p {font-size: x-large;text-align: justify;border: yellow;color: white;}
+body {background-color: rgb(0, 0, 0);margin: 20px;text-align: center;}
+    </style>
+</body>
+</html>
