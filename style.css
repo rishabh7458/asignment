@@ -1,0 +1,7 @@
+#header {background-color: aquamarine;color: rgb(0, 140, 255);font-size: large;padding-top: 5px;}
+body {padding-top: 50px;}
+#image {padding-top: 6px;float: left;padding-right: 30px;}
+#name {padding-left: 6px; padding-top: 15px;padding-bottom: 6px;color:maroon;font-size: x-large;}
+fieldset {background-color:rgb(211, 214, 216) ;border-color: maroon;}
+a:hover {background-color: rgb(9, 206, 255);}
+a {text-decoration: none;color: rgb(0, 153, 255);}
